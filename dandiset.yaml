@@ -46,7 +46,42 @@ contributor:
   - dcite:FormalAnalysis
   schemaKey: Person
   url: https://adinair.people.caltech.edu/
+- identifier: https://ror.org/006w34k90
+  includeInCitation: false
+  name: HHMI
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: RO1MH112593
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: NIH
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: RO1MH123612
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: NIH
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: RO1NS123916
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: NIH
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: National Science Scholarship
+  identifier: https://ror.org/059yjzn93
+  includeInCitation: false
+  name: Agency of Science, Technology and Research, Singapore
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2024-07-29T22:05:28.073452+00:00'
+datePublished: '2024-08-14T18:49:10.229908+00:00'
 description: 'This dataset provides neural and behavioural annotation data from the
   paper: "Encoding of female mating dynamics by a hypothalamic line attractor". Data
   is stored in the NWB format and contains GCaMP traces, behavioural annotation (timing
@@ -61,6 +96,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001097/versions/draft/assets/
 name: Encoding of female mating dynamics by a hypothalamic line attractor
 protocol: []
+publishedBy:
+  endDate: '2024-08-14T18:49:10.229908+00:00'
+  id: urn:uuid:56d3a832-11ee-4702-8119-1eccd2e1f9bd
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-08-14T18:49:10.229908+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6fcdae0a-bc34-4fca-86e2-ab1a3f4db4a8
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.1038/s41586-024-07916-w
   name: Encoding of female mating dynamics by a hypothalamic line attractor

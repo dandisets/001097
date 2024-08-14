@@ -39,6 +39,8 @@
 ],
 "dateModified":
 "2024-08-14T10:53:36.707878-07:00",
+"datePublished":
+"2024-08-14T18:49:10.575660+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -75,6 +77,34 @@
 ],
 "path":
 "sub-m541/sub-m541_behavior.nwb",
+"publishedBy":
+{
+"endDate":
+"2024-08-14T18:49:10.575660+00:00",
+"id":
+"urn:uuid:c2fa7c61-bd7f-49aa-8195-11451a8a8bd5",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2024-08-14T18:49:10.575660+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:69c5195c-8da8-437b-b301-1b880d5741bc",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -181,7 +211,7 @@
 ]
 },
 "modified":
-"2024-08-14T17:53:43.529283Z",
+"2024-08-14T18:49:10.581624Z",
 "path":
 "sub-m541/sub-m541_behavior.nwb",
 "size":
@@ -227,6 +257,8 @@
 ],
 "dateModified":
 "2024-08-14T10:53:37.364967-07:00",
+"datePublished":
+"2024-08-14T18:49:10.558780+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -263,6 +295,34 @@
 ],
 "path":
 "sub-m542/sub-m542_behavior.nwb",
+"publishedBy":
+{
+"endDate":
+"2024-08-14T18:49:10.558780+00:00",
+"id":
+"urn:uuid:e8ba77b2-d459-416b-8809-58b4aeec0b9c",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2024-08-14T18:49:10.558780+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:25f9c617-cd41-49cd-a2a0-c56a31304668",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -369,7 +429,7 @@
 ]
 },
 "modified":
-"2024-08-14T17:53:40.071581Z",
+"2024-08-14T18:49:10.565062Z",
 "path":
 "sub-m542/sub-m542_behavior.nwb",
 "size":
