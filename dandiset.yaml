@@ -31,7 +31,7 @@ assetsSummary:
   - BehavioralEpochs
   - ProcessingModule
 citation: Nair, Aditya (2024) Encoding of female mating dynamics by a hypothalamic
-  line attractor (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001097/draft
+  line attractor (Version 0.240814.1849) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.001097/0.240814.1849
 contributor:
 - email: adi.nair@caltech.edu
   identifier: 0000-0001-5242-5527
@@ -86,14 +86,15 @@ description: 'This dataset provides neural and behavioural annotation data from 
   paper: "Encoding of female mating dynamics by a hypothalamic line attractor". Data
   is stored in the NWB format and contains GCaMP traces, behavioural annotation (timing
   of behaviour), low-dimensional latent factors from dynamical models and other metadata.'
+doi: 10.48324/dandi.001097/0.240814.1849
 ethicsApproval: []
-id: DANDI:001097/draft
+id: DANDI:001097/0.240814.1849
 identifier: DANDI:001097
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001097/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001097/0.240814.1849/assets.yaml
 name: Encoding of female mating dynamics by a hypothalamic line attractor
 protocol: []
 publishedBy:
@@ -120,6 +121,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001097/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001097/0.240814.1849
+version: 0.240814.1849
 wasGeneratedBy: []
